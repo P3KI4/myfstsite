@@ -1,0 +1,10 @@
+<nav>
+	<ul>
+		<li><a href=""> Главна </a></li>
+		<li><a href=""> Статьи </a></li>
+		<li><a href=""> Пользователи</a></li>
+		<li><a href=""> Ресурсы </a></li>
+		<li><a href=""> Статистика </a></li>
+		<li><a href=""> О проекте </a></li>
+	</ul>
+</nav>
